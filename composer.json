@@ -1,0 +1,23 @@
+{
+    "name": "cwp/cwp-installer",
+    "description": "CWP Project Template",
+    "license": "BSD-3-Clause",
+    "require": {
+        "cwp/cwp-recipe-basic": "~1.8.1@stable",
+        "cwp/cwp-recipe-blog": "~1.8.1@stable",
+        "cwp/starter-theme": "~1.1.0@stable",
+        "cwp/watea-theme": "^1.1",
+        "cwp/agency-extensions": "^1.1"
+    },
+    "require-dev": {
+        "cwp/cwp-recipe-basic-dev": "^1.1@stable"
+    },
+    "suggest": {
+        "silverstripe/textextraction": "Required for document text searching within CWP"
+    },
+    "config": {
+        "process-timeout": 900
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
