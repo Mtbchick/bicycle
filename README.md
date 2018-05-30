@@ -1,6 +1,6 @@
 ## Overview
 
-Base project for the Common Web Platform Installer. See [the CWP home page](https://www.cwp.govt.nz/) for information.
+Base projects for the Common Web Platform Installer. See [the CWP home page](https://www.cwp.govt.nz/) for information.
 
 ## Getting started
 
